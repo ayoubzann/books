@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Eragon",
+      "id": 1
+    },
+    {
+      "title": "Den Eldste",
+      "id": 2
+    },
+    {
+      "title": "Brisingr",
+      "id": 3
+    },
+    {
+      "title": "Arven",
+      "id": 4
+    },
+    {
+      "title": "Papayane I Gombolo!",
+      "id": 6
+    }
+  ]
+}
